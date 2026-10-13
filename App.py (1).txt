@@ -1,0 +1,6 @@
+Sari da onnu onna full ah tharen! First la irunthu start pannalam.
+
+
+streamlit
+google-generativeai
+
